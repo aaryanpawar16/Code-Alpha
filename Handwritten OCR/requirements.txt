@@ -1,0 +1,9 @@
+tensorflow==2.16.1
+numpy==1.26.4
+opencv-python
+matplotlib
+emnist
+scikit-learn
+streamlit
+streamlit-drawable-canvas
+tf_keras
