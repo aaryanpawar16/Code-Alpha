@@ -19,7 +19,7 @@ Built with **TensorFlow/Keras**, **EMNIST Dataset**, and **Streamlit**.
 ```text
 Handwritten_OCR/
 │
-├── data/
+├── data/ (https://drive.google.com/drive/folders/14PL2uo20dwzI5_O3IJo8andV45ysASio?usp=sharing)
 │   └── processed/          # Stores normalized EMNIST data & label maps
 │
 ├── models/
@@ -102,4 +102,5 @@ Classifier: Flatten → Dense (128) → Output (Softmax 47 Classes)
 Optimizer: SGD (Stochastic Gradient Descent) for stability.
 
 📜 License
+
 Open-source project for educational purposes.
